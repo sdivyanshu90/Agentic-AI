@@ -532,8 +532,6 @@ In summary, **tools are simply functions, APIs, or services** that are "describe
 
 </details>
 
------
-
 <details>
 <summary><strong>Creating a tool</strong></summary>
 
@@ -650,8 +648,6 @@ Let's analyze each key:
 By combining a robust **Implementation (Part 1)** with a precise and descriptive **Schema (Part 2)**, you create a reliable and effective tool that your AI agent can use to successfully accomplish its tasks.
 
 </details>
-
------
 
 <details>
 <summary><strong>Tool Syntax</strong></summary>
@@ -868,8 +864,6 @@ Understanding this 4-step, multi-message "syntactic loop" is the key to building
 
 </details>
 
------
-
 <details>
 <summary><strong>Code Execution</strong></summary>
 
@@ -1002,8 +996,6 @@ This is a request you would *never* create a pre-defined tool for. It's too spec
 Code Execution is the most powerful tool in the agentic AI arsenal, but it demands the most rigorous engineering and security-first mindset to implement safely.
 
 </details>
-
------
 
 <details>
 <summary><strong>MCP (Model Context Protocol)</strong></summary>
