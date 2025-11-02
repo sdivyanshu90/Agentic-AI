@@ -1,4 +1,4 @@
-# Agentic AI Engineering - DeepLearning.AI Course
+# Agentic AI
 
 This repository contains my personal notes, code implementations, and project work for the **Agentic AI** course offered by DeepLearning.AI.
 
@@ -29,8 +29,9 @@ This course provides a comprehensive framework for designing, building, and eval
   * **Module 3: Tool Use Design Pattern** <br>
     Enable your AI systems to interact with the world through tools. Learn multiple approaches including function calling, code execution, and the Model Context Protocol (MCP) for seamless tool integration.
 
-  * **Module 4: Practical Tips for Building Agentic AI**
-    *Notes and code for this module are coming soon.*
+  * **Module 4: Practical Tips for Building Agentic AI** <br>
+    Develop essential skills for real-world deployment: creating robust evaluations, conducting error analysis, optimizing performance, and building reliable systems that work at scale.
+
 
   * **Module 5: Planning and Multi-Agent Systems**
     *Notes and code for this module are coming soon.*
