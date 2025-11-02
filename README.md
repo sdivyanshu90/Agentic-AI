@@ -41,7 +41,7 @@ This course provides a comprehensive framework for designing, building, and eval
 
 -----
 
-## Module 1: Introduction to Agentic AI (Detailed Notes)
+## Module 1: Introduction to Agentic AI
 
 This module lays the groundwork for the entire course, establishing the core concepts that differentiate "agentic" AI from traditional generative models.
 
