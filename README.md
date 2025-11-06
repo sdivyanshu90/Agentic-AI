@@ -1623,16 +1623,6 @@ Here is the complete content for your `README.md`.
 
 -----
 
-# 🤖 Agentic AI
-
-This repository contains the projects, code, and concepts for the "Agentic AI" course.
-
-## 🚀 Course Overview
-
-"Agentic AI" is a comprehensive course designed to take you from foundational concepts to building sophisticated, autonomous AI systems. You will learn how to create agents that can reason, plan, use tools, and collaborate to solve complex, multi-step problems.
-
------
-
 ## Module 5: Planning and Multi-Agent Systems
 
 Build the most sophisticated agentic patterns. Create AI that can formulate complex plans and coordinate multiple specialized agents to tackle large, complex problems.
